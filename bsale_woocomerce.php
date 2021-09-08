@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: BSale Woocommerce Integration
- * Description: Plugin para la integración BSALE con Woocommerce. Si tienes Bsale y tu tienda con woocommerce esta herramienta te enlaza el Bsale para que puedas tener tu stock en tiempo real.
+ * Description: Plugin para la integración BSALE con Woocommerce. Si tienes Bsale y tu tienda con woocommerce esta herramienta te enlaza el Bsale para que puedas tener tu stock en tiempo real. Me los voy a cojer a los dos por no hacer nada
  * Version: 1.0.0
  * Author: Neurona Digital
  * Author URI: https://neuronadigital.cl/
@@ -11,7 +11,7 @@
  * Developer URI: https://neuronadigital.cl/
  * Text Domain: bsale-woocommerce-integ
  * Domain Path: 
- * languages: Spanish
+ * languages: Spanish / Español
  *
  * WC requires at least: 2.2
  * WC tested up to: 3.5
