@@ -11,7 +11,7 @@
  * Developer URI: https://neuronadigital.cl/
  * Text Domain: bsale-woocommerce-integ
  * Domain Path: 
- * languages: Spanish
+ * languages: Spanish / Español
  *
  * WC requires at least: 2.2
  * WC tested up to: 3.5
