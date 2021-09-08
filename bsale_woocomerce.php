@@ -7,7 +7,7 @@
  * Author URI: https://neuronadigital.cl/
  * Developer Chief: Jose Hernandez
  * Developer Assitan: Roberto Flores
- * Developer Assitan: Jesus Martinez
+ * Developer Assitan: Jesus Martinez Lozada
  * Developer URI: https://neuronadigital.cl/
  * Text Domain: bsale-woocommerce-integ
  * Domain Path: 
